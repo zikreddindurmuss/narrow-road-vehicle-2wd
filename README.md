@@ -87,10 +87,3 @@ This prevents false positives from noisy sensor data.
 ## 📄 License
 
 Open source — free to use for educational and competition purposes.
-```
-
----
-
-Bunu `README.md` olarak kaydet, commit mesajını da şöyle yazabilirsin:
-```
-Add narrow road robot project with 3-sensor obstacle avoidance
